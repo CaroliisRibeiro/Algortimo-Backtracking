@@ -1,1 +1,1 @@
-# Implementac-o-do-algortimo-Backtracking-com-recurs-o
+# Implementac-o-do-algortimo-Backtracking-com-recurso
